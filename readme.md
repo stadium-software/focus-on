@@ -37,7 +37,7 @@ function hasAllClasses(element, classArray) {
 
 ## Page Setup
 1. Drag a control of type `TextBox`, `DropDown`, `CheckBox`, `ChecBoxList`, `RadioButtonList` or `DatePicker` to a page
-2. Add a class of your choosing to the control's *Classes* property that uniqely identifies the control on the page
+2. Add a class of your choosing to the control's *Classes* property that uniqely identifies the control on the page (e.g. my-drop-down or my-textbox)
 
 ![](images/Control-Properties.png)
 
