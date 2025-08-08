@@ -37,13 +37,13 @@ function hasAllClasses(element, classArray) {
 
 ## Page Setup
 1. Drag a control of type `TextBox`, `DropDown`, `CheckBox`, `ChecBoxList`, `RadioButtonList` or `DatePicker` to a page
-2. Add a class of your choosing to the container's *Classes* property that uniqely identifies the field on the page
+2. Add a class of your choosing to the control's *Classes* property that uniqely identifies the control on the page
 
 ![](images/Control-Properties.png)
 
 ## Event Handler Setup
 1. Drag the Global Script called "FocusOn" into an event handler
-2. Provide values for the scripts input parameters
+2. Provide a value for the scripts input parameter
    1. FieldClasses: Select the `Classes` property from the control you wish to focus on
 
 ![](images/Global-Script-Input.png)
